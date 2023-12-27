@@ -4,12 +4,12 @@ theme = "JuiceBar"
 title = "MCNLT"
 
 [params]
-author = "your_name"
-description = "My site description"
+author = "Jack McNulty"
+description = "Nice to meet you"
 authorImage = "/images/profile.jpg"
 paginate = 5 
-Title = "your_blog_title"
-content = "I'm JuiceBar, nice to meet you(ˊ˘ˋ*)♡"
+Title = "Jack McNulty"
+content = "I'm Jack, nice to meet you(ˊ˘ˋ*)♡"
 imageUrl = "/images/avatar.jpg"
 
 # To add a new social icon 
